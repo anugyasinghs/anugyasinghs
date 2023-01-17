@@ -1,7 +1,5 @@
-[![MasterHead](https://forkdrop.io/preparing-to-use-bitcoin-fork-claimer-tool)
 <h1 align="center">Hi 👋, I'm Anugya Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-vector/young-woman-writes-code-on-computer-1731157933">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugyasinghs&label=Profile%20views&color=0e75b6&style=flat" alt="anugyasinghs" /> </p>
 
