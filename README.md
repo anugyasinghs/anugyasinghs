@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anugya Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anugyasinghs&label=Profile%20views&color=0e75b6&style=flat" alt="anugyasinghs" /> </p>
 
 - 🌱 I’m currently learning **Spring Boot ,MicroServices ,Hibernate.**
 
